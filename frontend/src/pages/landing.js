@@ -23,7 +23,8 @@ const Landing = () => {
 
     return (
         <div className="page">
-            <Hero 
+            <h1>moonhangar</h1>
+            {/* <Hero 
                 heroBackground=""
                 heroTitle="Earn 4x on Travel or Use Points to Pay"
                 heroCaption=""
@@ -37,7 +38,7 @@ const Landing = () => {
                     featureImage = {item.featureImage}
                     featureImageAltText = {item.featureImageAltText}
                 />
-            ))}
+            ))} */}
         </div>
     )
 }
