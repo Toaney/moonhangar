@@ -26,7 +26,7 @@ const Landing = () => {
             <h1>moonhangar</h1>
             {/* <Hero 
                 heroBackground=""
-                heroTitle="Earn 4x on Travel or Use Points to Pay"
+                heroTitle="Moonhangar"
                 heroCaption=""
             />
             {assets.map( (item, index) => (
