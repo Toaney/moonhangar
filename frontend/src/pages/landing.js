@@ -24,6 +24,10 @@ const Landing = () => {
     return (
         <div className="page">
             <h1>moonhangar</h1>
+            <p>pi projects</p>
+            <p>paintings</p>
+            <p>bike routes</p>
+            <p>diy</p>
             {/* <Hero 
                 heroBackground=""
                 heroTitle="Moonhangar"
