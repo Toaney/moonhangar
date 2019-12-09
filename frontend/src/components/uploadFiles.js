@@ -1,6 +1,4 @@
 import React, { Fragment, useState } from 'react';
-// import Message from './Message';
-// import Progress from './Progress';
 import axios from 'axios';
 
 const Upload = () => {
@@ -75,7 +73,5 @@ const Upload = () => {
     </Fragment>
   );
 };
-
-// code source https://codingshiksha.com/javascript/react-file-uploader-with-express-using-react-hooks/
 
 export default Upload;
