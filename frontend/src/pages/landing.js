@@ -28,21 +28,6 @@ const Landing = () => {
             <p>paintings</p>
             <p>bike routes</p>
             <p>diy</p>
-            {/* <Hero 
-                heroBackground=""
-                heroTitle="Moonhangar"
-                heroCaption=""
-            />
-            {assets.map( (item, index) => (
-                <Feature 
-                    contentRight = {(index%2 === 0)? true : false}
-                    featureTitle = {item.captionTitle}
-                    captionBody = {item.captionBody}
-                    backgroundImage = {item.backgroundImage}
-                    featureImage = {item.featureImage}
-                    featureImageAltText = {item.featureImageAltText}
-                />
-            ))} */}
         </div>
     )
 }
